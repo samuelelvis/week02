@@ -2,11 +2,13 @@ nav {
   background-color: darkblue;
   padding: 10px;  
 }
+
 nav a {
   color: white;
   display: block;
   padding: 20px;
 }
+
 img {
   width: 150px;
   height: auto;
@@ -14,9 +16,11 @@ img {
   padding: 2px;
   box-shadow: 0 0 30px gray;  
 }
+
 p {
   padding: 10px;  
 } 
+
 aside {
   width: 20rem;
   margin: 1rem;
@@ -26,14 +30,17 @@ aside {
   color: #333;
   text-align: center;  
 }
+
 aside img {
   width: 200px;
   height: auto;  
 }
+
 main img {
     width: 150px;
     height: auto;
 }
+
 p {padding: 0;}
 footer {
   margin-top: 15px;
